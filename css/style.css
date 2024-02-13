@@ -2,6 +2,7 @@ body {
     font-family: 'EB Garamond', serif !important;
     font-family: 'Montserrat', sans-serif !important;
     font-family: 'Poppins', sans-serif !important;
+    overflow-x: hidden !important;
 }
 
 /*Main Header*/
@@ -348,6 +349,7 @@ ul.nav.navbar-nav.navbar-right .portal {
     background-color: #f1c40f;
     color: #333;
     border-color: #f1c40f;
+    margin-bottom: 15px;
 }
 
 #Main-Contact .btn-danger:hover {
@@ -447,6 +449,7 @@ ul.nav.navbar-nav.navbar-right .portal {
     background-color: #f1c40f;
     color: #333;
     border-color: #f1c40f;
+    margin-bottom: 15px;
 }
 
 #The_Login .btn-danger:hover {
